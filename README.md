@@ -1,4 +1,4 @@
-# Image-Face-Recognition-ML
+# Image-Face-Detection-ML
 Face Recognition in an Image using Machine Learning
 
 Ever wondered how all the major social platforms like Facebook, Instagram detect faces in the images we upload? It is all done using Machine Learning algorithms through OpenCV to detect faces in the image.
